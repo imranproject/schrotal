@@ -1,0 +1,26 @@
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes.dex : \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\helloworld\BuildConfig.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\helloworld\HelloWorld.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\helloworld\Manifest$permission.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\helloworld\Manifest.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\helloworld\R$attr.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\helloworld\R$drawable.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\helloworld\R$string.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\helloworld\R$xml.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\helloworld\R.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\schortal\BuildConfig.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\schortal\HelloWorld.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\schortal\Manifest$permission.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\schortal\Manifest.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\schortal\R$attr.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\schortal\R$drawable.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\schortal\R$string.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\schortal\R$xml.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\phonegap\schortal\R.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\plugin\gcm\CordovaGCMBroadcastReceiver.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\plugin\gcm\GCMIntentService.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\plugin\gcm\PushHandlerActivity.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\classes\com\plugin\gcm\PushPlugin.class \
+D:\pgap_apps\Schortal\platforms\android\ant-build\dexedLibs\classes-6436ffc30d8b6f62dc9e236912081951.jar \
+D:\pgap_apps\Schortal\platforms\android\ant-build\dexedLibs\gcm-47825c4cc533823aecebf835892ca09c.jar \
+D:\pgap_apps\Schortal\platforms\android\ant-build\dexedLibs\android-support-v13-bf8a60b91f7ea3c46a3c28c22cf701c8.jar \
